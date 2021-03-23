@@ -7,7 +7,7 @@ This is a simple project that i want make a poker game that can be a calculator 
 1. 6/9 player
 2. shuffle desk
 3. distribute cards
-4. Posiciones
+4. Positions
    1. BB
    2. SB
    3. Dealer
